@@ -71,13 +71,13 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![ASD Bot - System Design] https://www.youtube.com/watch?v=3e6autoyVKE "ASD Bot - System Design")
+https://www.youtube.com/watch?v=3e6autoyVKE
 
 ---
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to appendix of report C <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
 ---
 
@@ -88,6 +88,8 @@ the most popular and widely used messaging services, to provide easy and quick a
 ---
 
 ## SECTION 7 : MISCELLANEOUS
+
+Contains dialogflow zipped file: ASDBot_dialogflow.zip
 
 `Refer to Github Folder: Miscellaneous`
 
