@@ -97,6 +97,7 @@ Contains dialogflow zipped file: ASDBot_dialogflow.zip
 
 Downloadable link for Project Video    
 `<Promotion video>` : <https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing>
+
 `<System design video>` : <https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing>
 
 ---
