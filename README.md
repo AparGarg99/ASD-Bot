@@ -5,25 +5,57 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## ASD Bot: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
+## ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
 <img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
+	 width=400
+	 height=500
      style="float: left; margin-right: 0px;" />
 
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Singapore ranks amongst countries with the highest population density in the world. In a bid to have firm control over long term urban planning, the Singapore government came up with the “Built to Order” (abbreviated BTO) initiative back in 2001. These are new Housing Development Board (HDB) flats tightly controlled by their eligibility and quantity released every year. In more recent years, the modern BTO scheme in Singapore requires a waiting period of 3-4 years, and is generally targeted at young Singaporean couples looking to purchase their first property and set up a family. Nationality and income ceilings are some of the broad filters that determine one’s eligibility for the highly sought after projects. 
+# BACKGROUND
+Pervasive Developmental Disorders (PDD) refers to a group of disorders characterized by delays 
+in the development of socialization and communication skills. In 2013, researchers found that 
+diagnosis of PDD which include:
+• Autism 
+• Asperger Syndrome 
+• Childhood Disintegrative Disorder 
+• Rett Syndrome 
+• Not Otherwise Specified
+was not consistent across clinics since they tend to have very similar signs and symptoms. So, 
+they replaced all these medical terms with Autism Spectrum Disorder (ASD) which 
+encompasses all the PDD but uses a scale/spectrum that differentiates based on the severity of 
+Social Communication deficits and Restrictive and Repetitive behavior/interests/activities. It’s 
+thought that using this scale of symptoms as opposed to differentiating between PDD will help in 
+giving a more accurate and useful diagnosis. For example, those with what was previously 
+described as Asperger Syndrome would now likely fall under severity level 1 (low) than in level 
+3 (high).
+Approximately 1.8% of children in the U.S. have a diagnosis of ASD, a rate that has more than 
+doubled over the past two decades. In 2021, people of all races and socioeconomic groups are 
+impacted by the disorder. Worldwide, roughly 1 in 160 people is thought to have ASD [2]. The 
+condition begins early in childhood and lasts throughout a person’s life
 
+# BUSINESS CASE
+Parents of children with atypical development can feel quite stressed and confused when the 
+child is in the nascent stage. They may have a lot of questions in their mind regarding symptoms, 
+screening, and treatment options, etc. Similarly, when faced with the diagnosis of ASD, parents 
+can easily be overwhelmed by the news and may have a lot of questions regarding causes, and 
+child’s future, etc. In such difficult times, finding answers on search engines like Google, 
+despite them being the de-facto places to get answers to all queries, can be very frustrating since 
+the information is spread across different web pages. No single web source can provide the 
+answers to all queries. In addition, with misinformation being rampant these days, checking the 
+authenticity of information on web pages is next to impossible.
 
-Our team, comprising of 6 young Singaporeans, all hope to be property owners one day. Many of our peers opt for BTO flats due to their affordability, existence of financial aid from the government, as well as their resale value. However, there often exists a knowledge gap for these young couples during the decision making process and they end up making potentially regretful decisions. We would like to bridge this knowledge gap, and have hence chosen to base our project on creating a recommender system for BTO flats, utilizing the data from recent launches in Tampines, Eunos, Sengkang and Punggol. 
-
-
-Using the techniques imparted to us in lectures, our group first set out to build a sizeable knowledge base via conducting an interview and administering a survey. While building the system, we utilized tools such as Java to scrape real time data from HDB website and transform it into a database, CLIPS to synthesize the rule based reasoning process, and Python to integrate it into an easy to use UI for the everyday user. To add icing on the cake, we even hosted the system on a website so that the everyday user can access it through the click of a link.
-
-
-Our team had an amazing time working on this project, and hope to share our insights with everyone. Despite a focus on BTO flats, we would recommend it for everybody interested in understanding property market trends for residence or investment purposes. There truly are a wide array of factors behind the decision to invest in a property, and we only wish there was more time to work on the scope and scale of the project. 
-
+# SOLUTION
+In this project, we have introduced a medical domain-specific chatbot system, which can answer 
+frequently asked queries related to ASD by gathering and summarizing information from various 
+authentic web sources. Moreover, it provides other useful features including the ‘M-CHAT
+Screening test’ and ‘Special Needs Learning Facilities Nearby’ to aid parents of autistic children. 
+We have leveraged the natural language processing capabilities provided by Google’s 
+Dialogflow service to develop the chatbot and have later deployed it on Google Assistant, one of 
+the most popular and widely used messaging services, to provide easy and quick access to users.
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
