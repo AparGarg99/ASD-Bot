@@ -1,23 +1,13 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
-
----
+﻿---
 
 ## IRS-2021-11-07-ISY5001FT-ASDBot
 
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+## ASD Bot: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_dialogflow.zip"
      style="float: left; margin-right: 0px;" />
 
 ---
