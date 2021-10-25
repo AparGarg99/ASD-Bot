@@ -71,7 +71,7 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Alternate Text]({https://www.youtube.com/watch?v=3e6autoyVKE} "Link Title")
+[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=3e6autoyVKE} "Link Title")
 
 ---
 
