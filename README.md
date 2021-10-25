@@ -71,6 +71,9 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+[![chatbot](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/MarketingPromo.JPG)](https://www.youtube.com/watch?v=0m2uWfa5KCg "ASD Bot - Promotion Video")
+
+
 [![chatbot](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)](https://www.youtube.com/watch?v=3e6autoyVKE "ASD Bot - System Design")
 
 ---
