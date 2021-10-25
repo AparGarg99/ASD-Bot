@@ -8,14 +8,14 @@
 ## ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
 <img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
-	 width=400
-	 height=500
+	 width=600
+	 height=700
      style="float: left; margin-right: 0px;" />
 
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-# BACKGROUND
+### BACKGROUND
 Pervasive Developmental Disorders (PDD) refers to a group of disorders characterized by delays 
 in the development of socialization and communication skills. In 2013, researchers found that 
 diagnosis of PDD which include:
@@ -37,7 +37,7 @@ doubled over the past two decades. In 2021, people of all races and socioeconomi
 impacted by the disorder. Worldwide, roughly 1 in 160 people is thought to have ASD [2]. The 
 condition begins early in childhood and lasts throughout a person’s life
 
-# BUSINESS CASE
+### BUSINESS CASE
 Parents of children with atypical development can feel quite stressed and confused when the 
 child is in the nascent stage. They may have a lot of questions in their mind regarding symptoms, 
 screening, and treatment options, etc. Similarly, when faced with the diagnosis of ASD, parents 
@@ -48,7 +48,7 @@ the information is spread across different web pages. No single web source can p
 answers to all queries. In addition, with misinformation being rampant these days, checking the 
 authenticity of information on web pages is next to impossible.
 
-# SOLUTION
+### SOLUTION
 In this project, we have introduced a medical domain-specific chatbot system, which can answer 
 frequently asked queries related to ASD by gathering and summarizing information from various 
 authentic web sources. Moreover, it provides other useful features including the ‘M-CHAT
