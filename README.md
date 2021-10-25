@@ -95,6 +95,12 @@ Contains dialogflow zipped file: ASDBot_dialogflow.zip
 
 ---
 
+Downloadable link for Project Video    
+`<Promotion video>` : <https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing>
+`<System design video>` : <https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing>
+
+---
+
 **This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
 **Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
