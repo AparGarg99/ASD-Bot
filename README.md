@@ -8,8 +8,8 @@
 ## ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
 <img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
-	 width=600
-	 height=700
+	 width=500
+	 height=600
      style="float: left; margin-right: 0px;" />
 
 ---
@@ -56,6 +56,7 @@ Screening test’ and ‘Special Needs Learning Facilities Nearby’ to aid pare
 We have leveraged the natural language processing capabilities provided by Google’s 
 Dialogflow service to develop the chatbot and have later deployed it on Google Assistant, one of 
 the most popular and widely used messaging services, to provide easy and quick access to users.
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
