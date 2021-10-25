@@ -34,7 +34,7 @@ described as Asperger Syndrome would now likely fall under severity level 1 (low
 3 (high).
 Approximately 1.8% of children in the U.S. have a diagnosis of ASD, a rate that has more than 
 doubled over the past two decades. In 2021, people of all races and socioeconomic groups are 
-impacted by the disorder. Worldwide, roughly 1 in 160 people is thought to have ASD [2]. The 
+impacted by the disorder. Worldwide, roughly 1 in 160 people is thought to have ASD. The 
 condition begins early in childhood and lasts throughout a person’s life
 
 ### BUSINESS CASE
@@ -71,7 +71,7 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-https://www.youtube.com/watch?v=3e6autoyVKE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3e6autoyVKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
