@@ -10,7 +10,7 @@
 <img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
 	 width=500
 	 height=600
-     style="float: left; margin-right: 0px;" />
+     style="float: center; margin-right: 0px;" />
 
 ---
 
