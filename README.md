@@ -6,9 +6,7 @@
 
 ### ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/logo.jpg"
-	
-     style="float: left; margin-right: 0px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/logo.JPG" style="float: left; margin-right: 0px;" />
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
