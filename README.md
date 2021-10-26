@@ -7,7 +7,10 @@
 ## SECTION 1 : PROJECT TITLE
 ## ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
-![Icon][https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg]
+<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
+	 width=500
+	 height=600
+     style="float: centre; margin-right: 0px;" />
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
