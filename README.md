@@ -11,7 +11,7 @@
 	 width=500
 	 height=600
      style="float: center; margin-right: 0px;" />
-![https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg]
+![][https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg]
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
