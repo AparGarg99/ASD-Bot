@@ -19,10 +19,10 @@ Pervasive Developmental Disorders (PDD) refers to a group of disorders character
 in the development of socialization and communication skills. In 2013, researchers found that 
 diagnosis of PDD which include:
 <ul>
-< Autism 
-• Asperger Syndrome 
-• Childhood Disintegrative Disorder 
-• Rett Syndrome 
+<li> Autism 
+<li> Asperger Syndrome 
+<li> Childhood Disintegrative Disorder 
+<li> Rett Syndrome 
 <li> Not Otherwise Specified
 </ul>
 was not consistent across clinics since they tend to have very similar signs and symptoms. So, 
