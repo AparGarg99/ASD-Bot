@@ -82,7 +82,7 @@ System Design and Use Case demo
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix of report C <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to Appendix C (Installation & User Guide) in project report at Github Folder: ProjectReport`
 
 ---
 
