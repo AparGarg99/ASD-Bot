@@ -18,15 +18,17 @@
 Pervasive Developmental Disorders (PDD) refers to a group of disorders characterized by delays 
 in the development of socialization and communication skills. In 2013, researchers found that 
 diagnosis of PDD which include:
-• Autism 
+<ul>
+< Autism 
 • Asperger Syndrome 
 • Childhood Disintegrative Disorder 
 • Rett Syndrome 
-• Not Otherwise Specified
+<li> Not Otherwise Specified
+</ul>
 was not consistent across clinics since they tend to have very similar signs and symptoms. So, 
 they replaced all these medical terms with Autism Spectrum Disorder (ASD) which 
 encompasses all the PDD but uses a scale/spectrum that differentiates based on the severity of 
-Social Communication deficits and Restrictive and Repetitive behavior/interests/activities. It’s 
+Social Communication deficits and Restrictive and Repetitive behavior/interests/activities. It's 
 thought that using this scale of symptoms as opposed to differentiating between PDD will help in 
 giving a more accurate and useful diagnosis. For example, those with what was previously 
 described as Asperger Syndrome would now likely fall under severity level 1 (low) than in level 
