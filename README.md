@@ -1,6 +1,4 @@
-﻿---
-
-## IRS-2021-11-07-ISY5001FT-ASDBot
+# IRS-2021-11-07-ISY5001FT-ASDBot
 
 ---
 
