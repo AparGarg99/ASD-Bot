@@ -22,7 +22,7 @@ diagnosis of PDD which include:
 <li> Not Otherwise Specified
 </ul>
 was not consistent across clinics since they tend to have very similar signs and symptoms. So, 
-they replaced all these medical terms with Autism Spectrum Disorder (ASD) which 
+they replaced all these medical terms with **Autism Spectrum Disorder (ASD)** which 
 encompasses all the PDD but uses a scale/spectrum that differentiates based on the severity of 
 Social Communication deficits and Restrictive and Repetitive behavior/interests/activities. It's 
 thought that using this scale of symptoms as opposed to differentiating between PDD will help in 
