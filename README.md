@@ -5,7 +5,8 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
+
+<b>ASD BOT: INTELLIGENT AI CHATBOT FOR AUTISM SPECTRUM DISORDER
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/ASDBot_Icon.jpeg"
 	 width=500
