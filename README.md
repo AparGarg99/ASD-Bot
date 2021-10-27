@@ -62,7 +62,7 @@ the most popular and widely used messaging services, to provide easy and quick a
 | :------------ |:---------------:| :-----| :-----|
 | Apar Garg    | A0231539E | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | e0703571@u.nus.edu |
 | Gopan Ravikumar Girija | A0231541U | web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | e0703573@u.nus.edu |
-| Yeong Wee Ping | A0231533R | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | e0703571@u.nus.edu |
+| Yeong Wee Ping | A0231533R | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | e0703565@u.nus.edu |
 
 ---
 
