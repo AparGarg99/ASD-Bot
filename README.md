@@ -52,7 +52,7 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 <br>
 
-***For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).***
+For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
 
 ---
 
