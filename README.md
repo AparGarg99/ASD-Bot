@@ -52,16 +52,6 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# AUTHORS 👨‍💻
-
-| Full Name  | Work Items (Who Did What) | Email ID |
-| :---------------:| :-----| :-----|
-| Apar Garg    | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | apargarg99@gmail.com |
-| Gopan Ravikumar Girija  | Web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | rggopan123@gmail.com |
-| Yeong Wee Ping  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | aceirus@hotmail.com |
-
----
-
 # VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
@@ -78,6 +68,16 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 # INSTALLATION AND USER GUIDE 🔌
 
 Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
+
+---
+
+# AUTHORS 👨‍💻
+
+| Full Name  | Work Items (Who Did What) | Email ID |
+| :---------------:| :-----| :-----|
+| Apar Garg    | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | apargarg99@gmail.com |
+| Gopan Ravikumar Girija  | Web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | rggopan123@gmail.com |
+| Yeong Wee Ping  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | aceirus@hotmail.com |
 
 ---
 ***Don't forget to give a ⭐ if you like this project !!***
