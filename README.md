@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/logo_2.jpg" width=360 height=449 style="float: left; margin-right: 0px;" />
 ---
 
-## OVERVIEW
+# OVERVIEW 📚
 ### ✔️BACKGROUND
 Pervasive Developmental Disorders (PDD) refers to a group of disorders characterized by delays 
 in the development of socialization and communication skills. In 2013, researchers found that 
@@ -52,7 +52,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# PROJECT CONTRIBUTION
+# AUTHORS
 
 | Full Name  | MTech Student ID | Work Items (Who Did What) | Email ID |
 | :------------ |:---------------:| :-----| :-----|
@@ -62,7 +62,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 👨‍💻
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
 
@@ -75,7 +75,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 * [Download Video](https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing)
 ---
 
-# INSTALLATION AND USER GUIDE
+# INSTALLATION AND USER GUIDE 🔌
 
 Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
 
