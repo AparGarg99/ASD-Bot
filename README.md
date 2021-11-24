@@ -52,7 +52,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# AUTHORS
+# AUTHORS 👨‍💻
 
 | Full Name  | Work Items (Who Did What) | Email ID |
 | :---------------:| :-----| :-----|
