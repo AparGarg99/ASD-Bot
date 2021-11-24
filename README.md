@@ -54,7 +54,7 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email |
+| Full Name  | MTech Student ID | Work Items (Who Did What) | Email ID |
 | :------------ |:---------------:| :-----| :-----|
 | Apar Garg    | A0231539E | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | e0703571@u.nus.edu |
 | Gopan Ravikumar Girija | A0231541U | web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | e0703573@u.nus.edu |
