@@ -62,7 +62,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 👨‍💻
+# VIDEO OF SYSTEM MODELLING & USE CASE DEMO 🎥
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
 
