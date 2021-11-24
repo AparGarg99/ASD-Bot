@@ -50,6 +50,7 @@ We have leveraged the natural language processing capabilities provided by Googl
 Dialogflow service to develop the chatbot and have later deployed it on Google Assistant, one of 
 the most popular and widely used messaging services, to provide easy and quick access to users.
 
+*** For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf). ***
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
@@ -75,23 +76,9 @@ the most popular and widely used messaging services, to provide easy and quick a
 * [Download Video](https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing)
 ---
 
-## SECTION 5 : USER GUIDE
+## SECTION 5 : INSTALLATION AND USER GUIDE
 
 Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
-
----
-
-## SECTION 6 : PROJECT REPORT / PAPER
-
-Refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
-
----
-
-## SECTION 7 : MISCELLANEOUS
-
-Contains dialogflow zipped file: ASDBot_dialogflow.zip.
-
-Refer to [Miscellaneous](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous) folder.
 
 ---
 ***Don't forget to give a ⭐ if you like this project !!***
