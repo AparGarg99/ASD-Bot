@@ -26,7 +26,7 @@ doubled over the past two decades. In 2021, people of all races and socioeconomi
 impacted by the disorder. Worldwide, roughly 1 in 160 people is thought to have ASD. The 
 condition begins early in childhood and lasts throughout a person’s life
 
-### BUSINESS CASE
+### ✔️BUSINESS CASE
 Parents of children with atypical development can feel quite stressed and confused when the 
 child is in the nascent stage. They may have a lot of questions in their mind regarding symptoms, 
 screening, and treatment options, etc. Similarly, when faced with the diagnosis of ASD, parents 
@@ -37,7 +37,7 @@ the information is spread across different web pages. No single web source can p
 answers to all queries. In addition, with misinformation being rampant these days, checking the 
 authenticity of information on web pages is next to impossible.
 
-### SOLUTION
+### ✔️SOLUTION
 In this project, we have introduced a medical domain-specific chatbot system, which can answer 
 frequently asked queries related to ASD by gathering and summarizing information from various 
 authentic web sources. Moreover, it provides other useful features including the ‘M-CHAT
@@ -52,7 +52,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-## PROJECT CONTRIBUTION
+# PROJECT CONTRIBUTION
 
 | Full Name  | MTech Student ID | Work Items (Who Did What) | Email ID |
 | :------------ |:---------------:| :-----| :-----|
@@ -62,20 +62,20 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ---
 
-##  VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+# VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
 
-### Promotional Video
+### ✔️Promotional Video
 * [Watch Video](https://www.youtube.com/watch?v=0m2uWfa5KCg)
 * [Download Video](https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing)
 
-### System Design and Use Case demo
+### ✔️System Design and Use Case demo
 * [Watch Video](https://www.youtube.com/watch?v=3e6autoyVKE)
 * [Download Video](https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing)
 ---
 
-## INSTALLATION AND USER GUIDE
+# INSTALLATION AND USER GUIDE
 
 Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).
 
