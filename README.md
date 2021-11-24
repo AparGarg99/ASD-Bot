@@ -64,6 +64,8 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
+
 ### Promotional Video
 * [Watch Video](https://www.youtube.com/watch?v=0m2uWfa5KCg)
 * [Download Video](https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing)
