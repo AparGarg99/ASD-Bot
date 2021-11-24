@@ -76,13 +76,13 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to Appendix C (Installation & User Guide) in project report at Github Folder: ProjectReport`
+Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf)
 
 ---
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
+Refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf)
 
 ---
 
@@ -90,4 +90,4 @@ the most popular and widely used messaging services, to provide easy and quick a
 
 Contains dialogflow zipped file: ASDBot_dialogflow.zip
 
-`Refer to Github Folder: Miscellaneous`
+Refer to [Miscellaneous](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous) folder
