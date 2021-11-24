@@ -57,7 +57,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 | Full Name  | Work Items (Who Did What) | Email ID |
 | :---------------:| :-----| :-----|
 | Apar Garg    | Web scraping, Find Special Needs Learning Facilities Nearby fulfillment, Heroku deployment, Report and documentation | apargarg99@gmail.com |
-| Gopan Ravikumar Girija | A0231541U | web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | rggopan123@gmail.com |
+| Gopan Ravikumar Girija  | Web scraping, M-CHAT screening fulfillment, Google Assistant integration, Report and documentation, Video presentation | rggopan123@gmail.com |
 | Yeong Wee Ping  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | aceirus@hotmail.com |
 
 ---
