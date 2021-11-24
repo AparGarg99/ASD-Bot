@@ -66,11 +66,11 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 
 ![](https://github.com/AparGarg99/ASD-Bot/blob/master/Miscellaneous/HelloThere.JPG)
 
-### ✔️Promotional Video
+### ✔️PROMOTIONAL VIDEO
 * [Watch Video](https://www.youtube.com/watch?v=0m2uWfa5KCg)
 * [Download Video](https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing)
 
-### ✔️System Design and Use Case demo
+### ✔️SYSTEM DESIGN AND USE CASE DEMO
 * [Watch Video](https://www.youtube.com/watch?v=3e6autoyVKE)
 * [Download Video](https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing)
 ---
