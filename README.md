@@ -50,7 +50,7 @@ We have leveraged the natural language processing capabilities provided by Googl
 Dialogflow service to develop the chatbot and have later deployed it on Google Assistant, one of 
 the most popular and widely used messaging services, to provide easy and quick access to users.
 
-*** For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf). ***
+***For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/master/ProjectReport/Report.pdf).***
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
