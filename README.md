@@ -70,7 +70,7 @@ For more details refer to [Report](https://github.com/AparGarg99/ASD-Bot/blob/ma
 * [Watch Video](https://www.youtube.com/watch?v=0m2uWfa5KCg)
 * [Download Video](https://drive.google.com/file/d/1YhYGIIpYq7YYN7P2fJ70Mafr9WpqrLmE/view?usp=sharing)
 
-### ✔️DEMO VIDEO
+### ✔️USE CASE DEMO VIDEO
 * [Watch Video](https://www.youtube.com/watch?v=3e6autoyVKE)
 * [Download Video](https://drive.google.com/file/d/1AFYf8A9FKTBATN3XleLTQOHJWQk_5xnN/view?usp=sharing)
 ---
