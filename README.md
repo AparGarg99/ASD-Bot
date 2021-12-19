@@ -80,4 +80,8 @@ Refer to Appendix C (Installation & User Guide) in [Report](https://github.com/A
 | Yeong Wee Ping  | Web scraping, Knowledge base FAQ, Overall chatbot workflow integration, Google Assistant integration, Report and documentation | aceirus@hotmail.com |
 
 ---
+
+# FUTURE WORK 
+* Add 'Appointment Booking' functionality. After looking for the nearest treatment facility, the bot will automatically book an appointment for the user (if user wants to) and send the confirmation via mail.
+* Predicting autism (screening) based on contextual information such as age, gender, ethnicity and family history etc. [Dataset](https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++#) [Code](https://github.com/AparGarg99/NUS/blob/main/1%20-%20Intelligent%20Reasoning%20Systems/1%20-%20Machine%20Reasoning/Workshops/A0231539E%20Apar%20Garg%20-%20sln%20-%20Bayes%20ASD.ipynb)
 ***Don't forget to give a ⭐ if you like this project !!***
